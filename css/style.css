@@ -319,6 +319,7 @@ body {
 	}
 	.header-active {
 		display: flex;
+		z-index: 99;
 	}
 	.logo {
 		margin-bottom: 25px;
